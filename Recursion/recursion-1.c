@@ -13,5 +13,6 @@ int main(){
      }
      printf("%d\n",n);
      repeated(n-1);
+     printf("%d\n", n);
      return;
 }
