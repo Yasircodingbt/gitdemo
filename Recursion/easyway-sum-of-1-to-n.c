@@ -1,5 +1,8 @@
+// sum of 1 to n using recursion
+
 #include <stdio.h>
 #include <math.h>
+ 
 int sum(int n); // function
 int main()
 {
