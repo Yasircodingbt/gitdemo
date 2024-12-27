@@ -1,4 +1,4 @@
-/*write a function to calulatee the nth 
+/*write a function to calulate the nth 
 fiboncci number using recursion*/
 
 
