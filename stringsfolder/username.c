@@ -1,5 +1,4 @@
 /*   make a program that inputs user's name & prints its lenght
-
 */
 
 
