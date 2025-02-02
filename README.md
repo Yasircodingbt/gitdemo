@@ -1,6 +1,15 @@
- <h1>
-  my name is muhammad yasir and live in pakistan 
-  <h4>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document </title>
+</head>
+<body>
+     <h3> MUHAMMAD YASIR A CODIND STUDENT AND STARTING THE JOUNARY WITH COMPUTER SCIENCE
+</body>
+</html>
+
   # Dynamic and Static Programming Languages
 
 ## Dynamic Programming Languages

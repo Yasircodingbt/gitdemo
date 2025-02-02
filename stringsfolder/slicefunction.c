@@ -9,7 +9,8 @@
 void slice(char str[],int n,int m);
 int main(void){ 
  char str[100];
-  scanf("%s",str);
+  //scanf("%s",str);
+  fgets(str,100,stdin);
   int n,m;
   scanf("%d%d",&n,&m);
   slice(str,n,m);
