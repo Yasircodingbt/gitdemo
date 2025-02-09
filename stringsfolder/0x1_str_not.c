@@ -23,7 +23,7 @@ int i;
       for ( i = 0; str[i] != '\0'; i++){
           if(ch == str[i]){
                printf("yes this character is present in your sentence\n");
-          return;
+                     return;
         }
       }
       printf("no this character is No present in your sentence\n");

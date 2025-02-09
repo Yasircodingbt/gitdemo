@@ -8,16 +8,16 @@
 void salted(char password[]);
 int main(void){
    char password[100];
-   scanf("%s",password);
-   salted(password);
-     return 0;
-}void salted(char password[]){
+     scanf("%s",password);
+        salted(password);
+             return 0;
+}
+void salted(char password[]){
    char salt[] = "123";
-   char new[200];
+          char new[200];
+              strcpy(new,password);   //new = "test";
+                   strcat(new,salt);    //new = "test" join with 123;
+                       puts(new);
 
-   strcpy(new,password);   //new = "test";
-    strcat(new,salt);    //new = "test" join with 123;
-             puts(new);
-
-   return;
+                        return;
 }
