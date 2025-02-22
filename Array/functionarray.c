@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 void printNumber(int arr[],int n){
-     for (int i = 0; i <n; i++){
+     for (int i = 0; i < n; i++){
           printf("%d \t",arr[i]);
      }
      printf("\n");

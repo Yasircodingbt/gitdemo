@@ -1,0 +1,10 @@
+the list of odd num 1
+the list of odd num 3
+the list of odd num 5
+the list of odd num 7
+the list of odd num 9
+the list of odd num 11
+the list of odd num 13
+the list of odd num 15
+the list of odd num 17
+the list of odd num 19
